@@ -1,0 +1,13 @@
+=== LLM Evaluation Result ===
+
+Question: What is Artificial Intelligence?
+
+Answer A:
+AI is the simulation of human intelligence.
+
+Answer B:
+Artificial Intelligence is a field of computer science that focuses on building intelligent systems capable of learning, reasoning, and decision-making.
+
+Order 1 Result (A vs B): B
+Order 2 Result (B vs A): A
+
